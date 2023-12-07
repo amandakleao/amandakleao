@@ -1,5 +1,20 @@
 
-###### Postando exercícios e projetos com Python de baixa a média complexidade.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="90" height="90"/> 
 
 
@@ -7,7 +22,7 @@
           
           
           
----
+
 
 ###### **Outras redes para interagirmos:**
 
@@ -22,5 +37,5 @@
           
           
 
-          ![Snake animation](https://github.com/amandakleao/amandakleao/blob/output/github-contribution-grid-snake.svg)
+          ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
           
